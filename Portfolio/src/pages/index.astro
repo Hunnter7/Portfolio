@@ -16,6 +16,7 @@ import PortfolioPreview from '../components/PortfolioPreview.astro';
 import ContactCTA from '../components/ContactCTA.astro';
 import Skills from '../components/Skills.astro';
 import Schedule from '../components/Schedule.astro';
+import  SpeedInsights  from "@vercel/speed-insights/astro"
 
 // Content Fetching: List four most recent work projects
 const projects = (await getCollection('work'))
@@ -27,6 +28,7 @@ const projects = (await getCollection('work'))
 ---
 
 <BaseLayout>
+	<SpeedInsights>
 	<div class="stack gap-20 lg:gap-48">
 		<div class="wrapper stack gap-8 lg:gap-20">
 			<header class="hero">
@@ -104,6 +106,7 @@ const projects = (await getCollection('work'))
 		</main>
 		<ContactCTA/>
 	</div>
+</SpeedInsights>
 </BaseLayout>
 
 <style>
