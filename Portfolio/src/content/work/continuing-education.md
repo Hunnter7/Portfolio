@@ -1,35 +1,50 @@
 ---
 title: Continuing Education
-publishDate: 2020-03-02 00:00:00
+publishDate: 2024-04-02 00:00:00
 img: /assets/continuing-education.jpg
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
-  We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
+  
 tags:
-  - Design
+  - Education
   - Dev
-  - User Testing
+  - Training
 ---
 
-## Level-two heading
+**📚Continuing Education for Engineers: Keeping Up with Change!📚**
 
-> Tell me and I forget. Teach me and I remember. Involve me and I learn.
+In an ever-changing world, continuing education has become indispensable for engineers. Technology is advancing by leaps and bounds, bringing with it new tools and methodologies on a constant basis.
 
-Lorem ipsum dolor sit amet, <a href="https://astro.build/">Astro</a> makes people happy. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin nibh nisl condimentum id venenatis a condimentum vitae. Dapibus ultrices in iaculis nunc. Arcu odio ut sem nulla pharetra diam sit amet. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare.
+**❗Why is it important?**
 
-Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Eget gravida cum sociis natoque penatibus. Cras fermentum odio eu feugiat pretium nibh. Proin nibh nisl condimentum id venenatis. Porta nibh venenatis cras sed felis eget velit. Id diam vel quam elementum pulvinar etiam non.
+**🔄 Staying current:** Continuous training ensures you stay abreast of the latest technologies and practices in the industry.
 
-### Level-three heading
+**💡 Improve skills:** Allows engineers to develop both technical and soft skills, thus increasing their efficiency and productivity on the job.
 
-Ultrices tincidunt arcu non sodales neque sodales ut. Sed enim ut sem viverra aliquet eget sit amet. Lacus luctus accumsan tortor posuere ac ut consequat semper viverra. Viverra accumsan in nisl nisi scelerisque eu ultrices. In massa tempor nec feugiat nisl pretium fusce.
+**🚀 Increase employability:** In an increasingly competitive job market, continuing education can make a difference when seeking new job opportunities or promotions.
 
-### Level-three heading
+**🎯 Adapt to change:** Continuing education enables engineers to adapt quickly to changing market demands and company needs.
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+**💼 Develop career:** It is an investment in the professional future, providing the knowledge and skills needed for career advancement.
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
 
-#### Level-four heading
+**📈Options for training📈**
 
-- We noted this
-- And also this other point
+**🖥️ Online Courses:** Digital platforms offer a wide range of courses on various engineering topics, accessible from anywhere.
+
+**🛠️ Workshops and Conferences:** In-person events organized by associations, universities and companies provide opportunities to learn about specific topics and network.
+
+**📜 Certifications:** Certification programs validate knowledge and skills acquired in specific areas of engineering, providing recognition and credibility.
+
+**📖 Specialized Reading:** Keep up to date with the latest news and developments in the industry through reading magazines, blogs and other specialized materials.
+
+
+**❇️Consejos for Elegir❇️**
+
+**🔍 Identify Needs:** Assess what areas need improvement and focus.
+
+**🎯 Set Objectives:** Clearly define what you want to achieve with the training.
+
+**💰 Consider Budget:** Evaluate the cost and look for options that fit.
+
+**🏆 Choose Reputation:** Opt for institutions and platforms with solid reputation and experience in engineering education.
