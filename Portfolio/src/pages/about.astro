@@ -3,6 +3,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
 import ContactCTA from '../components/ContactCTA.astro';
 import Hero from '../components/Hero.astro';
+import Resume from '../components/Resume.astro';
 ---
 
 <BaseLayout title="About | Arnoldo Trujillo" description="About Arnoldo Trujillo">
@@ -54,8 +55,8 @@ import Hero from '../components/Hero.astro';
 				</div>
 			</section>
 		</main>
-
 		<ContactCTA />
+		<Resume />
 	</div>
 </BaseLayout>
 
@@ -66,7 +67,7 @@ import Hero from '../components/Hero.astro';
 		gap: 3.5rem;
 	}
 
-	img {
+ 	img {
 		margin-top: 1.5rem;
 		border-radius: 1.5rem;
 		box-shadow: var(--shadow-md);
@@ -113,6 +114,18 @@ import Hero from '../components/Hero.astro';
 		section {
 			display: contents;
 			font-size: var(--text-lg);
+		}
+		.download-cv {
+  			background-color: #4CAF50;
+  			color: #fff;
+  			border: none;
+  			padding: 10px 20px;
+  			font-size: 16px;
+  			cursor: pointer;
+		}
+
+		.download-cv:hover {
+  			background-color: #3e8e41;
 		}
 	}
 </style>
