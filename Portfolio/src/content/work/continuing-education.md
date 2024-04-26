@@ -39,7 +39,7 @@ In an ever-changing world, continuing education has become indispensable for eng
 **📖 Specialized Reading:** Keep up to date with the latest news and developments in the industry through reading magazines, blogs and other specialized materials.
 
 
-**❇️Consejos for Elegir❇️**
+**❇️Tips for Choosing❇️**
 
 **🔍 Identify Needs:** Assess what areas need improvement and focus.
 

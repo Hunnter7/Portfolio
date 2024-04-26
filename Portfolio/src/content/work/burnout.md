@@ -35,3 +35,10 @@ Emotional intelligence is the ability to understand and manage our emotions, bot
 Burnout is a real problem that affects many professionals, but emotional intelligence may be the key to combating it. 
 By developing skills such as self-awareness, self-management, empathy and relationship management, employees not only improve their individual well-being, but also contribute to a healthier and more productive work environment. 
 Investing in emotional intelligence is a sure bet for long-term success for both individuals and organizations.
+
+**Additional Resources**
+
+I leave you these resources on emotional intelligence in case you are interested in learning more about the topic.
+- [The Value of Emotional Intelligence at Work in 5 Keys.](https://www.obsbusiness.school/blog/el-valor-de-la-inteligencia-emocional-en-el-trabajo-en-5-claves)
+- [How to apply emotional intelligence at work.](https://www.therapyside.com/post-es/como-aplicar-la-inteligencia-emocional-en-el-trabajo)
+- [Emotional intelligence, why it is so important at work.](https://factorialhr.es/blog/inteligencia-emocional-trabajo/)
