@@ -2,7 +2,7 @@
 title: Stadistics LI
 publishDate: 2024-04-30 00:00:00
 img: /assets/Statistics.jpg
-img_alt: 
+img_alt: Analysis of the different graphs
 description: |
   Analysis of my LinkedIn account growth in the last month
 tags:
