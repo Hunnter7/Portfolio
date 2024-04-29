@@ -2,9 +2,9 @@
 title: Stadistics LI
 publishDate: 2024-04-30 00:00:00
 img: /assets/Statistics.jpg
-img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
+img_alt: 
 description: |
-  Transfer learning to create MusaNet CNN
+  Analysis of my LinkedIn account growth in the last month
 tags:
   - LinkedIn
   - Dev
