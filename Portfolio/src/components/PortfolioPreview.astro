@@ -7,7 +7,7 @@ interface Props {
 }
 const { data, slug, id } = Astro.props.project;
 const project = firstprojects;
-const isLatest = id === project.id;
+const isLatest = slug === project.slug;
 
 ---
 
